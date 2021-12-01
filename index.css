@@ -1,0 +1,17 @@
+:root{
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+h2{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.flex{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
